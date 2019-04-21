@@ -1,7 +1,10 @@
 FROM python:3
 
-ADD Test1Data /
+WORKDIR /Users/samihaal-bakri/PycharmProjects/DataS/visualization.py
 
-RUN pip install pystrich
+COPY requirements.txt ./
+RUN pip install --no-cache-dir -r requirements.txt
 
-CMD [ "python", "./Test1Data.py" ]
+COPY . .
+
+CMD [ "python", "./visualization.py" ]
