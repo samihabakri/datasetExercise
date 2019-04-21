@@ -20,8 +20,8 @@ PyCharm for example
 * [PyChram](https://www.jetbrains.com/help/pycharm/manage-projects-hosted-on-github.html)- used to implement the code 
 
 ## Used Datasets: 
-1- Population by Country (1980 - 2010): https://catalog.data.gov/dataset/population-by-country-1980-2010
-2- Suicide Rates Overview 1985 to 2016:https://www.kaggle.com/russellyates88/suicide-rates-overview-1985-to-2016 
+ [Population by Country (1980 - 2010)]: (https://catalog.data.gov/dataset/population-by-country-1980-2010)<br>
+ [Suicide Rates Overview 1985 to 2016]:(https://www.kaggle.com/russellyates88/suicide-rates-overview-1985-to-2016)
 
 ## License
 
