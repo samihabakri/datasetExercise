@@ -30,6 +30,8 @@ PyCharm for example
 ## ORCID
 https://orcid.org/0000-0001-6436-2754
 
+## GitHub DIO 10.5281/zenodo.2648324
+
 
 ## DOI
 * How population is affected by suicide in Canada 1985 - 2010 Detailed DMP: 10.5281/zenodo.2648303
